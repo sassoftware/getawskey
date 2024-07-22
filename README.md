@@ -1,5 +1,7 @@
 ## Tooling for AWS Authentication
 
+**Archived project: This projet is no longer in active development and has been archived on 2024-07-22.
+
 ### License
 
 Copyright (c) 2017-2018 by SAS Institute Inc., Cary, NC 27513 USA
